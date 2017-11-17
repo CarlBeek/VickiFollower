@@ -42,4 +42,4 @@ email_secret.json:
 ```
 
 ## Working State
-I coded this a while ago (before Vicki switched over to having separate accounts for each pair). This means, that this code will no longer work. That said, the core ideas are still good, they must just be ported over to her new accounts and phrasology.
+I coded this a while ago (before Vicki switched over to having separate accounts for each pair). This means, that this code will no longer work. That said, the core ideas are still good, they must just be ported over to her new accounts and phrasology so is broken.
